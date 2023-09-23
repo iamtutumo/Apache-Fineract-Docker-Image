@@ -1,3 +1,4 @@
+INSTRUCTIONS: How to run using Docker and docker-compose
 Now to run a new Fineract instance you can simply:
 
 git clone https://github.com/apache/fineract.git ; cd fineract
