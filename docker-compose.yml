@@ -17,7 +17,7 @@ services:
       - "3306:3306"
       
   fineract-server:
-    image: apache/fineract:latest
+    image: openmf/fineract:0.0.0-865570c1
     volumes:
       - ./fineract-provider/build/data:/data
     healthcheck:
